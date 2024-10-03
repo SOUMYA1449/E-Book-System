@@ -152,13 +152,13 @@ button:hover {
 <body>
 
 	<div class="wrapper">
-		<form action="login" method="post">
+		<form action="#" method="post">
 			<h2>Login</h2>
 			<div class="input-field">
-				<input type="text" name="email" required> <label>Enter your email</label>
+				<input type="text" required> <label>Enter your email</label>
 			</div>
 			<div class="input-field">
-				<input type="password" name="password" required> <label>Enter your
+				<input type="password" required> <label>Enter your
 					password</label>
 			</div>
 			<div class="forget">
